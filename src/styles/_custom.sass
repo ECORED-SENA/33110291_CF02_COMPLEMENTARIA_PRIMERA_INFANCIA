@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 0%
   &-2
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 0%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 70%
+    right: 80%
 
 @keyframes float1
   0%
@@ -17,3 +21,152 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.banner-principal__img
+  width: 33%
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img1.svg") !important
+
+.tarjeta.tarjeta--amarilla
+  background-image: url(../assets/curso/tema1/img3.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #7053E8
+
+.slyder-a__bullets__item
+  background-color: #CDB6D1
+.slyder-a__bullets__item--active
+  background-color: #7053E8
+
+.tarjeta.tarjeta--verde
+  background-color: #FFEBC5
+.tarjeta.tarjeta--verde.acordion__activo
+  background-color: #FCF5E9
+
+.acordion__accion__btn--a
+  background-color: #7053E8
+  color: white
+
+.tarjeta.tarjeta--gris1
+  background-color: #E3EEFC
+
+.tarjeta.tarjeta--gris
+  background-color: #F6F6F6
+
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
+  background-color: #FCF5E9
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #7053E8
+
+.linea-tiempo-c__header__btn i, .linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i, .pasos-b__header__btn--left i, .pasos-b__header__btn--right i
+  color: white
+
+.tarjeta.color-primario
+  background-color: #FFF7E6
+  p,b
+    color: $color-sistema-texto !important
+
+.tarjeta.color-secundario
+  background-color: #EAE5FC
+
+.bloque-texto-g.color-secundario
+  background-color: #CDC3F7
+
+.bg
+  &-c1
+    background-image: url(../assets/curso/intro/img1.svg)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: contain
+  &-c2
+    background-color: #E3EEFC
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: contain
+  &-c3
+    background-color: #FFEBC5
+    border-radius: 25px
+  &-c4
+    background-color: #E3EEFC
+    border-radius: 25px
+    transition: all 0.5s ease-out
+  &-c4:hover
+    background-color: #D0E4FF
+    transition: all 0.5s ease-out
+  &-c5
+    background-image: url(../assets/curso/tema1/img9.svg)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: contain
+  &-c6
+    background-color: #F2F8FF
+    border-radius: 25px
+  &-c7
+    background-image: url(../assets/curso/tema2/img1.svg)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: contain
+  &-c8
+    background-color: #E3EEFC
+    border-radius: 25px
+  &-c9
+    background-image: url(../assets/curso/tema2/img4.svg)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: cover
+  &-c10
+    background-color: #FFF7E6
+    border-radius: 25px
+  &-c11
+    background-color: #FEC759
+    border-radius: 10px
+  &-c12
+    background-color: #FFF2F0
+    border-top-right-radius: 25px
+    border-bottom-right-radius: 25px
+    @media screen and ( max-width: $bp-max-lg )
+      border-top-right-radius: 0px
+      border-bottom-left-radius: 25px
+  &-c13
+    background-color: #F3F8FE
+    border-radius: 25px
+  &-c14
+    background-image: url(../assets/curso/tema2/img21.svg)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: cover
+  &-c15
+    background-color: #B1E0C6
+    border-radius: 10px
+  &-c16
+    background-color: #FDFAC1
+    border-radius: 10px
+  &-c17
+    background-color: #FFDDDE
+    border-radius: 10px
+  &-c18
+    background-image: url(../assets/curso/tema2/img22.svg)
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and ( max-width: $bp-max-lg )
+      background-size: cover
+      border-radius: 25px
+  &-c19
+    background-color: #C6DEFF
+    border-radius: 25px
+
+.txt
+  &-c1
+    background-color: #FFE0DD
+    padding: 3px
