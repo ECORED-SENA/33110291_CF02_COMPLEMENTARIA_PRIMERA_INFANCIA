@@ -26,7 +26,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p #[b Estudios de validación]
-              p.mb-0 Fueron conducidos varios estudios de validación de las dimensiones evaluadas en la escala, que mostraron una buena reproducibilidad Inter evaluador en las áreas de motricidad gruesa y motricidad fina adaptativa de la EAD – 1, pero los ítems correspondientes a Audición Lenguaje no eran buenos indicadores de alteraciones del desarrollo en esta área y su capacidad discriminativa era muy pobre.
+              p.mb-0 Fueron conducidos varios estudios de validación de las dimensiones evaluadas en la escala, que mostraron una buena reproducibilidad Inter evaluador en las áreas de motricidad gruesa y motricidad fina adaptativa de la EAD-1, pero los ítems correspondientes a Audición Lenguaje no eran buenos indicadores de alteraciones del desarrollo en esta área y su capacidad discriminativa era muy pobre.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img1.png', style="width: 450px" ,alt='').m-auto
@@ -40,7 +40,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p #[b ¿Qué arrojó el estudio?]
-              p.mb-0 Este estudio sugirió que el uso de versiones mejoradas de las pruebas ya implementadas en los programas de atención a la primera infancia en el país, trae múltiples ventajas frente al reto de construir una nueva. Se decidió entonces, proceder a la actualización de la Escala Abreviada del Desarrollo-1 y la Escala Cualitativa de Valoración del Desarrollo.
+              p.mb-0 Este estudio sugirió que el uso de versiones mejoradas de las pruebas ya implementadas en los programas de atención a la primera infancia en el país, trae múltiples ventajas frente al reto de construir una nueva. Se decidió entonces, proceder a la actualización de la Escala Abreviada del Desarrollo - 1 y la Escala Cualitativa de Valoración del Desarrollo.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img3.png', style="width: 450px" ,alt='').m-auto
@@ -54,14 +54,14 @@
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p #[b Confiabilidad y validez]
-              p.mb-0 Se detectó alta confiabilidad y validez en el “Estudio piloto de valoración del desarrollo en diferentes grupos poblacionales del país”, realizado en el marco del Convenio 529 de 2013, Alianza Público-Privada para el fortalecimiento y sostenibilidad de la política pública de primera infancia, en el cual se comparó la EAD con la ASQ – 3, mostrando un mejor desempeño.
+              p.mb-0 Se detectó alta confiabilidad y validez en el “Estudio piloto de valoración del desarrollo en diferentes grupos poblacionales del país”, realizado en el marco del Convenio 529 de 2013, Alianza Público-Privada para el fortalecimiento y sostenibilidad de la política pública de primera infancia, en el cual se comparó la EAD con la ASQ-3, mostrando un mejor desempeño.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img5.png', style="width: 450px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p #[b Otras versiones]
-              p.mb-0 Existió una segunda versión de la escala (EAD –2) que extendió los indicadores comportamentales hasta los 96 meses de edad. Sin embargo, no hubo registros del proceso de adición de indicadores o de normalización, por lo que la utilidad de esta versión fue muy limitada. Estos hechos y elementos sustentan la continuidad de su aplicación en el sector salud y fueron los argumentos para realizar el proceso de actualización efectuado en el año 2016 a la versión tres, lo que permite contar con un instrumento vigente para el tamizaje del desarrollo de niñas y niños
+              p.mb-0 Existió una segunda versión de la escala (EAD-2) que extendió los indicadores comportamentales hasta los 96 meses de edad. Sin embargo, no hubo registros del proceso de adición de indicadores o de normalización, por lo que la utilidad de esta versión fue muy limitada. Estos hechos y elementos sustentan la continuidad de su aplicación en el sector salud y fueron los argumentos para realizar el proceso de actualización efectuado en el año 2016 a la versión tres, lo que permite contar con un instrumento vigente para el tamizaje del desarrollo de niñas y niños.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img6.png', style="width: 450px" ,alt='').m-auto
@@ -75,6 +75,8 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La necesidad de contar con una herramienta actualizada que, como su versión original, fuera de aplicación sencilla y breve, formuló un proceso de actualización de los contenidos (indicadores comportamentales) de la escala que, conservando la estructura de cuatro áreas, reflejara adecuadamente los avances del país en el marco de la Estrategia de Atención Integral a la Primera Infancia #[b “De Cero a Siempre”] y, por lo tanto, la definición conceptual de desarrollo de la estrategia que después fue retomada en el marco de la #[b Política de Estado para el Desarrollo Integral para la Primera Infancia].
+
+    p.my-4 El proceso de actualización implicó:
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--verde")(data-aos="fade-down")
@@ -83,7 +85,7 @@
               p.mb-0 Se inició con la revisión de las escalas de tamización o evaluación de desarrollo infantil disponibles en español (ya fuese para cualquier país de Latinoamérica o para población hispanoparlante en los Estados Unidos de América), sin importar el método de administración. Este ejercicio se había realizado para la formulación de la “Guía de práctica clínica para la promoción del desarrollo, detección temprana y enfoque inicial de las alteraciones del desarrollo en niños menores de 5 años en Colombia” y fue reelaborado para llevar a cabo el proceso de actualización.
           .row(titulo="Escalas incluidas")
             .col-12
-              p.mb-0 Una vez se identificaron las escalas de tamización o evaluación de desarrollo de administración por observación estandarizada, y se obtuvo acceso a la totalidad de sus contenidos, se realizó un mapeo de ítems a las cuatro áreas del desarrollo cubiertas por la EAD–3. Las escalas incluidas, además de la EAD–1 y la EAD–2, en el proceso de mapeo fueron: el Inventario de Desarrollo de Batelle, las Escalas Bayley de Desarrollo Infantil, la prueba de Evaluación del Desarrollo Infantil (EDI), el Instrumento de Valoración Auditiva Comunicativa para Niños De 0 a 12 años, las Escalas de Desarrollo Merrill-Palmer-R (MP-R), el Test de Munich, el Test de Aprendizaje y Desarrollo Infantil (TADI).
+              p.mb-0 Una vez se identificaron las escalas de tamización o evaluación de desarrollo de administración por observación estandarizada, y se obtuvo acceso a la totalidad de sus contenidos, se realizó un mapeo de ítems a las cuatro áreas del desarrollo cubiertas por la EAD–3. Las escalas incluidas, además de la EAD–1 y la EAD–2, en el proceso de mapeo fueron: el Inventario de Desarrollo de Batelle, las Escalas Bayley de Desarrollo Infantil, la prueba de Evaluación del Desarrollo Infantil (EDI), el Instrumento de Valoración Auditiva Comunicativa para Niños De 0 a 12 años, las Escalas de Desarrollo Merrill-Palmer-R (MP-R), el #[em Test] de Munich, el #[em Test] de Aprendizaje y Desarrollo Infantil (TADI).
           .row(titulo="Selección de indicadores")
             .col-12
               p.mb-0 El universo de ítems fue ofrecido a un panel de expertos para que, a través de un método de consenso tipo Delphi electrónico modificado, seleccionaran los mejores indicadores comportamentales en cada área para cada rango de edad. El proceso de consenso incluyó, la oportunidad de que cada experto sometiera ítems nuevos para que el panel los juzgara y, reuniones presenciales de discusión y consenso.
@@ -138,7 +140,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-          p.mb-0 #[b Figura 1]. Áreas del desarrollo en la EAD-3.
+          p.mb-0 #[b Figura 1]. Áreas del desarrollo en la EAD-3
         figure(data-aos="fade-left")
           img(src='@/assets/curso/tema1/img4.svg', style="width: 800px" ,alt='Esquema que muestra en cuatro recuadros, las áreas del desarrollo para la EAD-3, las cuales son: motricidad gruesa, motricidad fino-adaptativa y lenguaje, dimensión personal social.').m-auto
     p.mb-5(data-aos="fade-right") Los resultados de la aplicación de la escala permiten determinar si hay desarrollo esperado para la edad, riesgo de problema en el desarrollo o sospecha de problema en el desarrollo. Su implementación ofrece validez y reproducibilidad; cuenta con normas claras de aplicación, calificación e interpretación de resultados. Para esto es necesario garantizar que la aplicación sea adecuada, ética y rigurosa, lo cual requiere responsabilidad y entrenamiento previo del examinador.
@@ -304,7 +306,7 @@
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img14.png', style="width: 450px" ,alt='').m-auto
-      
+
 </template>
 
 <script>
