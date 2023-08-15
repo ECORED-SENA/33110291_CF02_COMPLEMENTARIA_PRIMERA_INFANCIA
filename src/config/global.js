@@ -190,11 +190,6 @@ export default {
         'son los nutrientes que recibe el niño en el primer año de vida y que no son productos lácteos.',
     },
     {
-      termino: 'Atención',
-      significado:
-        'servicios recibidos por los individuos o las poblaciones para promover, mantener la salud.',
-    },
-    {
       termino: 'Crecimiento',
       significado:
         'incremento de talla en un determinado periodo de tiempo y tiene variaciones significativas según edad, sexo y estaciones de año.',

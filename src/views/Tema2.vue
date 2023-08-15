@@ -261,8 +261,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Test de valoración integral, del Ministerio de Salud
-                  p.text-small.mb-0 Consulte el archivo Anexos - Test de valoración integral, del Ministerio de Salud, propuesto en el material complementario de este componente y familiarícese con el instrumento, hoja de respuestas, formato de registro de datos de valoración y generalidades del EAD-3.
+                  h4.mb-1 #[em Test] de valoración integral, del Ministerio de Salud
+                  p.text-small.mb-0 Consulte el archivo Anexo - #[em Test] de valoración integral, del Ministerio de Salud, propuesto en el material complementario de este componente y familiarícese con el instrumento, hoja de respuestas, formato de registro de datos de valoración y generalidades del EAD-3.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
                     span Descargar
