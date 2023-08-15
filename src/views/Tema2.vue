@@ -79,7 +79,7 @@
           .row.align-items-center(data-aos="fade-up")
             .col-lg-8.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido.mb-4
-                p.mb-0 #[b Tabla 1]. Ejemplo de cálculo de edad.
+                p.mb-0 #[b Tabla 1]. Ejemplo de cálculo de edad
               figure.mb-4
                 img(src='@/assets/curso/tema2/img6.svg', style="width: 800px" ,alt='').m-auto
               p Para este caso, Catalina tendría entonces: #[b 2 años, 7 meses y 8 días], esto quiere decir que va a ser evaluada en el rango de edad #[b 8 (24 meses y 1 día a 36 meses 0 días)].
@@ -90,7 +90,7 @@
     #t_2_2
     .titulo-segundo.color-acento-contenido
       h2 2.2. Establecimiento de rango
-    p.mb-4(data-aos="fade-right") #[b.txt-c1 Edad corregida:] si el niño o niña nació antes de las 37 semanas de gestación y tiene hasta 2 años de edad, se debe realizar el ajuste de la edad, es decir, calcular la edad corregida. Esto debido a que el proceso de desarrollo se ve comprometido por la prematurez, por lo tanto, el ritmo de desarrollo se deberá evaluar haciendo la corrección a las semanas o días faltantes para la edad gestacional de referencia, que corresponde a la semana 40.
+    p.mb-4(data-aos="fade-right") #[b.txt-c1 Edad corregida:] si el niño o niña nació antes de las 37 semanas de gestación y tiene hasta 2 años de edad, se debe realizar el ajuste de la edad, es decir, calcular la edad corregida. Esto debido a que el proceso de desarrollo se ve comprometido por la #[strong prematurez], por lo tanto, el ritmo de desarrollo se deberá evaluar haciendo la corrección a las semanas o días faltantes para la edad gestacional de referencia, que corresponde a la semana 40.
     .row.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -99,7 +99,7 @@
         .row.mb-4
           .col-12.bg-c10
             .p-4
-              p.mb-0 Este proceso solo se realiza hasta los 2 años porque para este momento ya se ha hecho el proceso de reatrapaje en desarrollo, es decir, ya se deben tener los avances esperados en los diferentes dominios de desarrollo equiparados con las niñas y niños que no fueron prematuros, esto haciendo la aclaración que no se haya presentado una patología significativa que genere una afectación directa en el desarrollo que pueda generar una discapacidad asociada.
+              p.mb-0 Este proceso solo se realiza hasta los 2 años porque para este momento ya se ha hecho el proceso de #[strong reatrapaje] en desarrollo, es decir, ya se deben tener los avances esperados en los diferentes dominios de desarrollo equiparados con las niñas y niños que no fueron prematuros, esto haciendo la aclaración que no se haya presentado una patología significativa que genere una afectación directa en el desarrollo que pueda generar una discapacidad asociada.
         .row.align-items-center
           .col-md-auto.mb-4.mb-lg-0
             figure
@@ -110,7 +110,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Tabla 2]. Cálculo de edad caso Santiago.
+          p.mb-0 #[b Tabla 2]. Cálculo de edad caso Santiago
         figure
           img(src='@/assets/curso/tema2/img8.svg', style="width: 800px" ,alt='').m-auto
     p.text-center.mb-5(data-aos="fade-right") #[b Para poder calcular la edad corregida del niño que ha nacido pretérmino, es necesario:]
@@ -192,7 +192,7 @@
               img(src='@/assets/curso/tema2/img10.png', style="width: 377px" ,alt='').m-auto
           .col-md-7.col-lg.bg-c12
             .p-5
-              p.mb-0.mt-4 #[b El PI] se refiere al cumplimiento de dos ítems consecutivos al iniciar la administración en el rango correspondiente a la edad del niño o niña.
+              p.mb-0.mt-4 El #[b PI] se refiere al cumplimiento de dos ítems consecutivos al iniciar la administración en el rango correspondiente a la edad del niño o niña.
     p.mb-5(data-aos="fade-right") Cuando esto no sucede y el niño o la niña no cumple uno de los dos primeros ítems del rango de edad en el que empieza la valoración, deberán observarse los ítems anteriores en orden inverso, hasta que el niño o la niña cumpla dos ítems en orden sucesivo.
     .row.mb-5(data-aos="fade-right")
       .col-auto.bg-c11
@@ -212,7 +212,7 @@
               img(src='@/assets/curso/tema2/img11.png', style="width: 435px" ,alt='').m-auto
           .col-md-8.col-lg.bg-c12
             .p-5
-              p.mb-0.mt-4 #[b El PC] indica el último ítem que se aplicó durante la administración de la EAD-3. Corresponde al momento de suspender la evaluación cuando el niño o niña no cumple dos ítems consecutivos en cada una de las áreas contempladas en la presente escala.
+              p.mb-0.mt-4 El #[b PC] indica el último ítem que se aplicó durante la administración de la EAD-3. Corresponde al momento de suspender la evaluación cuando el niño o niña no cumple dos ítems consecutivos en cada una de las áreas contempladas en la presente escala.
     .row.mb-5(data-aos="fade-left")
       .col-12.p-4.bg-c3
         .row.align-items-center
@@ -239,7 +239,9 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La EAD-3 ofrece dos tipos de puntaje, puntuación directa (PD) y puntuación típica (PT), las cuales ofrecen información relevante y complementaria del nivel de desarrollo del niño o niña, en cada una de las áreas. La puntuación directa (PD) corresponde simplemente al total de ítems aprobados por el niño o niña y su valor es poco informativo sobre su nivel de desempeño. No se deben realizar interpretaciones acerca del nivel de desarrollo del niño o niña a partir de este puntaje, por este motivo es indispensable emplear algún tipo de puntuación trasformada como la puntuación típica.
-    p(data-aos="fade-right") La anotación y puntuación de la EAD-3 es sencilla, se trata fundamentalmente de consignar en la hoja de respuestas, en cada uno de los ítems, si el repertorio en cuestión ha sido observado o no. En cada área y rango de edad los ítems solo tienen dos opciones de puntuación: cumple (1), o no cumple (0) el criterio de puntuación. Este procedimiento deberá seguirse para todos y cada uno de los ítems, ningún ítem de los evaluados podrá quedar en blanco o vacío, ya que esto impedirá el cálculo de la puntuación final y, por tanto, el adecuado seguimiento del niño o la niña con relación a las evaluaciones posteriores.
+    p(data-aos="fade-right") La anotación y puntuación de la EAD-3 es sencilla, se trata fundamentalmente de consignar en la hoja de respuestas, en cada uno de los ítems, si el repertorio en cuestión ha sido observado o no.
+
+    p(data-aos="fade-left") En cada área y rango de edad los ítems solo tienen dos opciones de puntuación: cumple (1), o no cumple (0) el criterio de puntuación. Este procedimiento deberá seguirse para todos y cada uno de los ítems, ningún ítem de los evaluados podrá quedar en blanco o vacío, ya que esto impedirá el cálculo de la puntuación final y, por tanto, el adecuado seguimiento del niño o la niña con relación a las evaluaciones posteriores.
     p.mb-5(data-aos="fade-right") #[b A continuación, se enuncian los pasos para el establecimiento de la puntuación directa (PD):]
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
@@ -269,7 +271,7 @@
     #t_2_5
     .titulo-segundo.color-acento-contenido
       h2 2.5. Establecimiento de Puntuación Típica
-    p.mb-5(data-aos="fade-right") #[b La PT] permite obtener una indicación de desarrollo del niño o niña en las áreas evaluadas en comparación con los niños y las niñas de la muestra de normalización, lo que quiere decir que permite una comparación del desempeño del niño o la niña con otros niños y niñas de su edad, es decir, obtener una interpretación normativa del resultado del nivel de desarrollo, por área evaluada del niño o niña.
+    p.mb-5(data-aos="fade-right") La #[b PT] permite obtener una indicación de desarrollo del niño o niña en las áreas evaluadas en comparación con los niños y las niñas de la muestra de normalización, lo que quiere decir que permite una comparación del desempeño del niño o la niña con otros niños y niñas de su edad, es decir, obtener una interpretación normativa del resultado del nivel de desarrollo, por área evaluada del niño o niña.
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="fade-down")
         .row.justify-content-center
@@ -278,7 +280,7 @@
               img(src='@/assets/curso/tema2/img14.png', style="width: 435px" ,alt='').m-auto
           .col-md-8.col-lg.bg-c12
             .p-5
-              p.mb-0.mt-4 #[b Una vez obtenidas las PD], es necesario hallar las PT que les corresponden. Las PT de la EAD – 3 están expresadas en una escala t (Media de 50 y desviación estándar de 10).
+              p.mb-0.mt-4 Una vez obtenidas las #[b PD], es necesario hallar las PT que les corresponden. Las PT de la EAD – 3 están expresadas en una escala t (Media de 50 y desviación estándar de 10).
     p.mb-5(data-aos="fade-right") #[b A continuación, se describe, en detalle, el procedimiento para obtener la PT y los pasos necesarios para completar la hoja de registro de puntuación:]
     .row.justify-content-center.mb-5
       .col-lg-10.bg-c13(data-aos="fade-left")
@@ -374,7 +376,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img19.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Este apartado corresponde a la descripción de los 144 ítems de la EAD-3, disponible en el manual técnico de la Escala Abreviada de Desarrollo - EAD-3. El manual realiza una organización por dimensiones sin embargo para mejor la comprensión se hará la descripción por rango de edad.
+        p.mb-0 Este apartado corresponde a la descripción de los 144 ítems de la EAD-3, disponible en el manual técnico de la Escala Abreviada de Desarrollo (EAD-3). El manual realiza una organización por dimensiones sin embargo para mejor la comprensión se hará la descripción por rango de edad.
     .row.justify-content-center
       .col-lg-10
         .tarjeta.color-acento-contenido.p-3.mb-4(data-aos="fade-right")
@@ -387,7 +389,7 @@
                   h4.mb-1 Video: Salud y desarrollo infantil
                   p.text-small.mb-0 Explore, con atención, el video Salud y desarrollo infantil TAREA 3: Cómo aplicar la escala abreviada del desarrollo. En él se detalla la aplicación correcta del instrumento de valoración.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=7w6LdaFzSoU&t=359s" target="_blank")
                     span Ver video
                     i.fas.fa-file-download
         .tarjeta.color-acento-contenido.p-3.mb-4(data-aos="fade-left")
@@ -400,7 +402,7 @@
                   h4.mb-1 Rango 1: niñas y niños de los 0 días a 1 mes 0 días
                   p.text-small.mb-0 Consulte el archivo Rangos 1 al 4, para conocer las generalidades de los ítems de aplicación en los rangos de edad de 0 días a 9 meses.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Rango1.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         .tarjeta.color-acento-contenido.p-3.mb-4(data-aos="fade-right")
@@ -413,7 +415,7 @@
                   h4.mb-1 Rango 5: niñas y niños de 9 a 12 meses
                   p.text-small.mb-0 Consulte el archivo Rangos 5 al 8, para conocer las generalidades de los ítems de aplicación en los rangos de edad de 9 meses a 3 años.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Rango5.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         .tarjeta.color-acento-contenido.p-3(data-aos="fade-left")
@@ -426,7 +428,7 @@
                   h4.mb-1 Rango 9: niñas y niños de 3 a 4 años
                   p.text-small.mb-0 Consulte el archivo Rangos 9 al 12, para conocer las generalidades de los ítems de aplicación en los rangos de edad de 3 años a 7 años.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Rango9.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

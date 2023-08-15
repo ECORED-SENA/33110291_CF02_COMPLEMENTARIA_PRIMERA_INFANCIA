@@ -212,23 +212,23 @@
               .p-4
                 p.mb-0 En cuanto a las condiciones del examinador, es muy importante el perfil que desempeña dentro del modelo de atención integral a la primera infancia. Debe ser el personal más idóneo disponible, con la mejor disposición y actitud frente al proceso y con el mayor nivel de capacitación posible. No basta con conocer el instrumento, el examinador debe tener la visión global del proceso de desarrollo y su importancia como indicador de bienestar, al igual que su interacción con las demás variables biológicas, psicológicas y sociales que rodean al paciente.
     p.mb-5(data-aos="fade-up") #[b Otros elementos de consideración son:]
-    .tarjeta.tarjeta--gris1.p-4.mb-5(data-aos="fade-right")
+    .tarjeta.tarjeta--gris1.p-4.mb-4(data-aos="fade-right")
       LineaTiempoC.color-acento-botones(text-small)
         .row.justify-content-center(titulo="El acompañante")
           .col-10.bg-c6
             .p-4
               .row.justify-content-center.align-items-center
                 .col-10.mb-4.mb-md-0
-                  p.mb-0 Es indispensable lograr el mayor nivel de cooperación por parte del niño para lograr los resultados más positivos y este puede ser propiciado por el cuidador, quien debe evitar interferir con estas actividades, a menos que sea solicitado por el examinador.
+                  p.mb-0 El papel de la acompañante o cuidador durante la evaluación es importante para su resultado. Es este quien puede servir de puente entre el examinador, las diferentes actividades y el paciente.
                 .col-md-auto
                   figure
                     img(src='@/assets/curso/tema1/img10.svg', style="width: 120px", alt='').m-auto
-        .row.justify-content-center(titulo="El acompañante")
+        .row.justify-content-center(titulo="Favorecer cooperación del niño")
           .col-10.bg-c6
             .p-4
               .row.justify-content-center.align-items-center
                 .col-10.mb-4.mb-md-0
-                  p.mb-0 El papel de la acompañante o cuidador durante la evaluación es importante para su resultado. Es este quien puede servir de puente entre el examinador, las diferentes actividades y el paciente.
+                  p.mb-0 Es indispensable lograr el mayor nivel de cooperación por parte del niño para lograr los resultados más positivos y este puede ser propiciado por el cuidador, quien debe evitar interferir con estas actividades, a menos que sea solicitado por el examinador.
                 .col-md-auto
                   figure
                     img(src='@/assets/curso/tema1/img11.svg', style="width: 120px", alt='').m-auto
@@ -268,11 +268,24 @@
                 .col-md-auto
                   figure
                     img(src='@/assets/curso/tema1/img15.svg', style="width: 120px", alt='').m-auto
+
+
+    Separador
+    #t_1_3
+    .titulo-segundo.color-acento-contenido
+      h2 1.3 Características y materiales para la aplicación de la EAD-3
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema1/img15.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 La aplicación de la escala requiere establecer adecuadamente, el rango de aplicación de los 12 ítems definidos dentro del instrumento, para poder determinar los ítems de aplicación específicos para cada niña o niño. Para estandarizar la aplicación de los ítems dentro del manual técnico de la EAD-3, se ha establecido un listado específico de materiales, teniendo en cuenta que estos no tienen intención lúdica ni pedagógica y que la manipulación del material, por parte del niño o la niña, siempre debe ser en presencia del examinador.
+
     p.mb-5(data-aos="fade-up") #[b El siguiente esquema, muestra la estructura general de la EAD-3:]
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       p.mb-0 #[b Figura 2]. Estructura EAD-3.
     figure.mb-5(data-aos="fade-left")
-      img(src='@/assets/curso/tema1/img16.svg', style="width: 1300px" ,alt='Se muestran los 12 rangos de edades que están contemplados en las cuatro áreas del desarrollo.').m-auto
+      img(src='@/assets/curso/tema1/figura_2.svg', style="max-width: 700px" ,alt='Se muestran los 12 rangos de edades que están contemplados en las cuatro áreas del desarrollo.').m-auto
       figcaption.mt-3 Nota: tomado de Manual técnico de la EAD-3.
     p.mb-5(data-aos="fade-up") #[b Ahora, sobre los materiales de aplicación, considere los siguientes elementos:]
     .tarjeta.tarjeta--amarilla(data-aos="fade-left")
