@@ -150,32 +150,130 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Generalidades de la Escala Abreviada de Desarrollo - EAD-3',
+      referencia:
+        'Gobierno de Colombia. (2016). <em>Escala Abreviada de Desarrollo - 3</em>',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Escala-abreviada-de-desarrollo-3.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Generalidades de la Escala Abreviada de Desarrollo - EAD-3',
+      referencia:
+        'NeuroGym Centro terapéutico. (2020). <em>Escala abreviada de desarrollo 3</em> [video]. YouTube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=mQMeRF5dW-c',
+    },
+    {
+      tema: 'Aplicaciones del Instrumento',
+      referencia:
+        'Ministerio de Salud. (s.f.). <em>Anexos - Test de valoración integral.</em>',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/anexo-instrumentos-valoracion-ruta-promocion.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Atención',
+      significado:
+        'servicios recibidos por los individuos o las poblaciones para promover, mantener la salud.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'AIEPI',
+      significado:
+        'enfoque integrado de la salud infantil que se centra en el bienestar general del niño. Su finalidad es reducir la mortalidad, la morbilidad y la discapacidad en los niños menores de cinco años, así como promover su mejor crecimiento y desarrollo.',
+    },
+    {
+      termino: 'Alimentación complementaria',
+      significado:
+        'son los nutrientes que recibe el niño en el primer año de vida y que no son productos lácteos.',
+    },
+    {
+      termino: 'Atención',
+      significado:
+        'servicios recibidos por los individuos o las poblaciones para promover, mantener la salud.',
+    },
+    {
+      termino: 'Crecimiento',
+      significado:
+        'incremento de talla en un determinado periodo de tiempo y tiene variaciones significativas según edad, sexo y estaciones de año.',
+    },
+    {
+      termino: 'Derecho',
+      significado:
+        'es el conjunto de normas que imponen deberes y normas a todos los miembros de la sociedad de los mínimos de seguridad, certeza, igualdad, libertad y justicia.',
+    },
+    {
+      termino: 'Desarrollo',
+      significado:
+        'adquisición progresiva de las capacidades motoras y cognoscitivas durante la infancia.',
+    },
+    {
+      termino: 'Infancia',
+      significado:
+        'etapa de la vida del hombre comprendida desde el nacimiento hasta la pubertad.',
+    },
+    {
+      termino: 'Normativa',
+      significado:
+        'conjunto de normas y reglas que tienen como finalidad, regular y asegurar las cantidades y características en la reproducción o servicio de los bienes de consumo entre personas físicas y/o jurídicas.',
+    },
+    {
+      termino: 'Pediatría',
+      significado: 'estudia al niño y sus enfermedades.',
+    },
+    {
+      termino: 'Puericultura',
+      significado:
+        'disciplina médica y actividad que se ocupa de prestar cuidados a los niños para su mejor desarrollo.',
+    },
+    {
+      termino: 'RIAS',
+      significado:
+        'rutas integrales de atención en salud –definen las condiciones necesarias para asegurar la integridad en la atención por parte de los agentes del sistema de salud (territorio, asegurador, prestador) y de otros sectores.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Fondo de las Naciones Unidas para la Infancia (1991). <em>Escala Abreviada de Desarrollo.</em>',
+      link:
+        'https://docenciaeinvestigacionmanuelsanchezserrano.files.wordpress.com/2014/08/escala-abreviada-de-desarrollo-unicef-colombia.pdf',
+    },
+    {
+      referencia:
+        'Gobierno de Colombia (2016). <em>Escala Abreviada de Desarrollo.</em>',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Escala-abreviada-de-desarrollo-3.pdf',
+    },
+    {
+      referencia:
+        'Gobierno de Colombia (2013). <em>Estrategia de Atención Integral a la Primera Infancia. Fundamentos Políticos Técnicos y de Gestión.</em>',
+      link:
+        'http://www.deceroasiempre.gov.co/QuienesSomos/Documents/Fundamientos-politicos-tecnicos-gestion-de-cero-a-siempre.pdf',
+    },
+    {
+      referencia:
+        'Hormiga, C., Camargo, D. & Orozco, L. (2008). Reproducibilidad y validez convergente de la Escala Abreviada del Desarrollo y una traducción al español del instrumento Neurosensory Motor Development Assessment. Biomédica, 28(3), p. 327-346',
+      link: 'https://revistabiomedica.org/index.php/biomedica/article/view/73',
+    },
+    {
+      referencia:
+        'Ley 1804 de 2016. Por la cual se establece la política de Estado para el desarrollo integral de la Primera Infancia de Cero a Siempre y se dictan otras disposiciones. Agosto 02 de 2016.',
       link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2014). <em>Guía de práctica clínica para la promoción del crecimiento, la detección temprana y el enfoque inicial de alteraciones del crecimiento en niños menores de 10 años en Colombia y la promoción del desarrollo, detección temprana y enfoque inicial de las alteraciones del desarrollo en niños menores de 5 años.</em>',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/CA/gpc-completa-alteraciones-crecimiento-ninos-menores-10-anos.pdf',
+    },
+    {
+      referencia:
+        'Torrado, Bedregal, Pedraza, Bedregal, Corredor. (2014). <em>Informe Final del Estudio Piloto de Valoración del Desarrollo Infantil en Diversos Grupos Poblacionales de Colombia.</em>',
+      link:
+        'https://vdocumento.com/informe-final-del-estudio-piloto-de-valoracin-del-informe-final-del-estudio.html?page=1',
     },
   ],
   creditos: [
@@ -205,8 +303,8 @@ export default {
             'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital ',
         },
         {
-          nombre: 'Miroslava González Hernández',
-          cargo: 'Diseñadora y evaluadora instruccional',
+          nombre: 'Fabián Leonardo Correa Díaz',
+          cargo: 'Diseñador instruccional',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -257,14 +355,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
