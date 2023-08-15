@@ -294,7 +294,7 @@
         figure(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img15.png', style="width: 800px" ,alt='Imagen ejemplo de una tabla de valoración que contiene registro de una puntuación directa y marcación de resultados en hoja de respuesta donde los mismos se encuentran en la zona verde, evidenciando desarrollo, del niño o niña, acorde a su rango de edad.').m-auto
           figcaption.mt-3 Nota: tomado de del Manual técnico de la EAD-3.
-    p(data-aos="fade-right") En este caso, una vez registrada la puntuación directa y realizado el proceso de conversión en cada una de las tablas para las dimensiones correspondientes, se puede marcar los resultados en la hoja de respuesta, en este caso todos se encuentran en el color verde del semáforo, lo que corresponde a un desarrollo esperado para la edad.
+    p(data-aos="fade-right") En este ejemplo, una vez registrada la puntuación directa y realizado el proceso de conversión en cada una de las tablas para las dimensiones correspondientes, se puede marcar los resultados en la hoja de respuesta, en este caso todos se encuentran en el color verde del semáforo, lo que corresponde a un desarrollo esperado para la edad.
     Separador
     #t_2_6
     .titulo-segundo.color-acento-contenido
