@@ -228,7 +228,7 @@
             figure
               img(src='@/assets/curso/tema2/img14.svg', style="width: 70px" ,alt='').m-auto
           .col
-            p.mb-0 #[b Nota:] existen situaciones en la que puede no puede obtenerse punto de inicio como es el caso de las niñas y los niños del rango 1, que al no cumplir el primer o segundo ítem del rango 1, no existe la posibilidad de aplicar ítems inmediatamente anteriores pues el rango 1 es el primero de la EAD-3, situación similar que puede ocurrir con el punto de cierre cuando se cumplen con todas las actividades de los ítems del último rango de evaluación que corresponde al 12, en este caso no se obtendrá PC y se terminará la aplicación al completar el ítem 36 de cada una de las dimensiones.
+            p.mb-0 #[b Nota:] existen situaciones en las que puede no obtenerse punto de inicio,  como es el caso de las niñas y los niños del rango 1, que al no cumplir el primer o segundo ítem del rango 1, no existe la posibilidad de aplicar ítems inmediatamente anteriores, pues el rango 1 es el primero de la EAD-3, situación similar que puede ocurrir con el punto de cierre cuando se cumplen con todas las actividades de los ítems del último rango de evaluación que corresponde al 12, en este caso no se obtendrá PC y se terminará la aplicación al completar el ítem 36 de cada una de las dimensiones.
     Separador
     #t_2_4
     .titulo-segundo.color-acento-contenido
@@ -241,7 +241,7 @@
         p.mb-0 La EAD-3 ofrece dos tipos de puntaje, puntuación directa (PD) y puntuación típica (PT), las cuales ofrecen información relevante y complementaria del nivel de desarrollo del niño o niña, en cada una de las áreas. La puntuación directa (PD) corresponde simplemente al total de ítems aprobados por el niño o niña y su valor es poco informativo sobre su nivel de desempeño. No se deben realizar interpretaciones acerca del nivel de desarrollo del niño o niña a partir de este puntaje, por este motivo es indispensable emplear algún tipo de puntuación trasformada como la puntuación típica.
     p(data-aos="fade-right") La anotación y puntuación de la EAD-3 es sencilla, se trata fundamentalmente de consignar en la hoja de respuestas, en cada uno de los ítems, si el repertorio en cuestión ha sido observado o no.
 
-    p(data-aos="fade-left") En cada área y rango de edad los ítems solo tienen dos opciones de puntuación: cumple (1), o no cumple (0) el criterio de puntuación. Este procedimiento deberá seguirse para todos y cada uno de los ítems, ningún ítem de los evaluados podrá quedar en blanco o vacío, ya que esto impedirá el cálculo de la puntuación final y, por tanto, el adecuado seguimiento del niño o la niña con relación a las evaluaciones posteriores.
+    p(data-aos="fade-left") En cada área y rango de edad, los ítems solo tienen dos opciones de puntuación: cumple (1), o no cumple (0) el criterio de puntuación. Este procedimiento deberá seguirse para todos y cada uno de los ítems, ningún ítem de los evaluados podrá quedar en blanco o vacío, ya que esto impedirá el cálculo de la puntuación final y, por tanto, el adecuado seguimiento del niño o la niña con relación a las evaluaciones posteriores.
     p.mb-5(data-aos="fade-right") #[b A continuación, se enuncian los pasos para el establecimiento de la puntuación directa (PD):]
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")

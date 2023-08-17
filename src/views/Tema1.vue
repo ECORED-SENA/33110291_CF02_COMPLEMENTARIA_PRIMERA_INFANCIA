@@ -47,7 +47,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p #[b Fundamentos de su uso]
-              p.mb-0 La decisión de mantener la EAD como herramienta para la valoración del desarrollo infantil, se fundamenta en varias razones: se trata de una escala construida en el país y por tanto validada para la población colombiana. Es de amplio uso por el sector salud del país, con una práctica acumulada de más de 20 años, lo cual representa un capital profesional sobre el que se puede seguir construyendo, minimizando así costos económicos, técnicos y de tiempos en la apropiación de su uso, en comparación con cualquier otra escala a emplear.
+              p.mb-0 La decisión de mantener la EAD como herramienta para la valoración del desarrollo infantil, se fundamenta en varias razones: se trata de una escala construida en el país y por tanto, validada para la población colombiana. Es de amplio uso por el sector salud del país, con una práctica acumulada de más de 20 años, lo cual representa un capital profesional sobre el que se puede seguir construyendo, minimizando así costos económicos, técnicos y de tiempos en la apropiación de su uso, en comparación con cualquier otra escala a emplear.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img4.png', style="width: 450px" ,alt='').m-auto
